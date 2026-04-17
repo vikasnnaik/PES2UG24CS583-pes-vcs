@@ -18,7 +18,3 @@ This project implements a lightweight version control system called **PES (Porta
 - C Programming
 - OpenSSL (for SHA-256 hashing)
 - Linux/Ubuntu environment
-
----
-
-## 📂 Project Structure
