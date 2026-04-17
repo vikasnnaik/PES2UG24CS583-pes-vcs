@@ -1,3 +1,4 @@
+// Phase 1: Object storage implementation
 // object.c — Content-addressable object store
 // Phase 1: Object storage implementation
 
