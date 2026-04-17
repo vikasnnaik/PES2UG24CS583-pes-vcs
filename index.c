@@ -205,4 +205,8 @@ int index_add(Index *index, const char *path) {
     e->path[sizeof(e->path) - 1] = '\0';
 
     return index_save(index);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 085bec3 (Completed Orange Problem - All phases)

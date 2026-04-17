@@ -232,4 +232,8 @@ int commit_create(const char *message, ObjectID *commit_id_out) {
     if (head_update(commit_id_out) != 0) return -1;
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 085bec3 (Completed Orange Problem - All phases)

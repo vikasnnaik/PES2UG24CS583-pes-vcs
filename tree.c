@@ -110,4 +110,8 @@ int tree_from_index(ObjectID *id_out) {
 
     free(data);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 085bec3 (Completed Orange Problem - All phases)
