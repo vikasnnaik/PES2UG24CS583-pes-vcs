@@ -1,3 +1,4 @@
+// Phase 3: Index staging
 // index.c — Staging area implementation
 
 #include "index.h"
