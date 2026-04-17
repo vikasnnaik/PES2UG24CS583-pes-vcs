@@ -1,4 +1,5 @@
 // object.c — Content-addressable object store
+// Phase 1: Object storage implementation
 
 #include "pes.h"
 #include <stdio.h>
