@@ -1,3 +1,4 @@
+// Phase 2: Tree serialization
 // tree.c — Tree object serialization and construction
 
 #include "tree.h"
