@@ -1,3 +1,4 @@
+// Phase 4: Commit system
 // commit.c — Commit creation and history traversal
 
 #include "commit.h"
